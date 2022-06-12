@@ -19,25 +19,25 @@ CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
 # Link Hosting Kalian Untuk Ssh Vpn
-wisnuvpn="raw.githubusercontent.com/samratu/large/sae/ssh"
+wisnuvpn="raw.githubusercontent.com/zeavps/main/cvt/ssh"
 # Link Hosting Kalian Untuk Sstp
-wisnuvpnn="raw.githubusercontent.com/samratu/large/sae/sstp"
+wisnuvpnn="raw.githubusercontent.com/zeavps/main/cvt/sstp"
 # Link Hosting Kalian Untuk Ssr
-wisnuvpnnn="raw.githubusercontent.com/samratu/large/sae/ssr"
+wisnuvpnnn="raw.githubusercontent.com/zeavps/main/cvt/ssr"
 # Link Hosting Kalian Untuk Shadowsocks
-wisnuvpnnnn="raw.githubusercontent.com/samratu/large/sae/shadowsocks"
+wisnuvpnnnn="raw.githubusercontent.com/zeavps/main/cvt/shadowsocks"
 # Link Hosting Kalian Untuk Wireguard
-wisnuvpnnnnn="raw.githubusercontent.com/samratu/large/sae/wireguard"
+wisnuvpnnnnn="raw.githubusercontent.com/zeavps/main/cvt/wireguard"
 # Link Hosting Kalian Untuk Xray
-wisnuvpnnnnnn="raw.githubusercontent.com/samratu/large/sae/xray"
+wisnuvpnnnnnn="raw.githubusercontent.com/zeavps/main/cvt/xray"
 # Link Hosting Kalian Untuk Ipsec
-wisnuvpnnnnnnn="raw.githubusercontent.com/samratu/large/sae/ipsec"
+wisnuvpnnnnnnn="raw.githubusercontent.com/zeavps/main/cvt/ipsec"
 # Link Hosting Kalian Untuk Backup
-wisnuvpnnnnnnnn="raw.githubusercontent.com/samratu/large/sae/backup"
+wisnuvpnnnnnnnn="raw.githubusercontent.com/zeavps/main/cvt/backup"
 # Link Hosting Kalian Untuk Websocket
-wisnuvpnnnnnnnnn="raw.githubusercontent.com/samratu/large/sae/websocket"
+wisnuvpnnnnnnnnn="raw.githubusercontent.com/zeavps/main/cvt/websocket"
 # Link Hosting Kalian Untuk Ohp
-wisnuvpnnnnnnnnnn="raw.githubusercontent.com/samratu/large/sae/ohp"
+wisnuvpnnnnnnnnnn="raw.githubusercontent.com/zeavps/main/cvt/ohp"
 
 # Getting
 MYIP=$(wget -qO- ipinfo.io/ip);
@@ -171,11 +171,9 @@ echo " 🔰 IPv6                    : [OFF]"                        |tee -a log-
 echo " 🔰 Autoreboot On 04.00 GMT +7"                             |tee -a log-install.txt
 echo " 🔰 Autobackup Data"                                        |tee -a log-install.txt
 echo " 🔰 Restore Data"                                           |tee -a log-install.txt
-echo " 🔰 Auto Delete Expired Account"                            |tee -a log-install.txt
-echo " 🔰 NGUTER,CENTRAL JAVA,INDONESIA"                          |tee -a log-install.txt
-echo " 🔰 Editing and Scan Typo by GANDRING"                      |tee -a log-install.txt
+echo " 🔰 Auto Delete Expired Account"                            |tee -a log-install.txt                      |tee -a log-install.txt
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "\E[44;1;41m           🔰 SOLO THE SPIRIT OF JAVA 🔰            \E[0m"
+echo -e "\E[44;1;41m           🔰 ZEA KING STORE CVT VPS 🔰            \E[0m"
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo " 🔰 Installation Log --> /root/log-install.txt"             |tee -a log-install.txt
 echo " Reboot 5 Sec"
