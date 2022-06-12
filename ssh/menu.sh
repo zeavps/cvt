@@ -8,7 +8,7 @@ bl='\e[36;1m'
 gl='\e[32;1m'
 #cat /usr/bin/bannerku | lolcat
 echo -e "\033[1;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "\E[44;1;46m             🔰 PRESTIGE SERVER ZEROSSL 🔰              \E[0m"
+echo -e "\E[44;1;46m             🔰 PRESTIGE SERVER ZEAVPS 🔰              \E[0m"
 echo -e "\033[1;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m" 
 echo -e "01\e[0;33m) MENU LAYANAN WIREGUARD®  \e[m"
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
@@ -30,11 +30,11 @@ echo -e "09\e[0;33m) MENU LAYANAN VMESS WEBS GRPC DAN HTTP/2 \e[m"
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "10\e[0;33m) MENU LAYANAN KONFIGURASI SERVER ANDA \e[m"
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "00\e[1;31m) Nomer Iki Metu Kang Mass \e[m"
+echo -e "00\e[1;31m) SELECT TO EXIT \e[m"
 echo -e "\033[1;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "\033[1;46m             🔰 LUXURY EDITION BY ZEROSSL 🔰            \E[0m"
+echo -e "\033[1;46m             🔰 LUXURY EDITION BY ZEAVPS🔰            \E[0m"
 echo -e "\033[1;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-#echo -e "\e[0;31m   ⇱ TEKAN K UNTUK KE VERSI LONDO ⇲  \e[m"
+#echo -e "\e[0;31m   ⇱ TEKAN K UNTUK KE VERSI INTERNASIONAL ⇲  \e[m"
 echo -e "\e[0;31m   ⇱ PRESS K FOR ENGLISH VERSION ⇲   \e[m"
 read -p "   ⇱ Silahkan Pilih Angka [ 1 - 0 ] ⇲: " menu
 echo -e ""
