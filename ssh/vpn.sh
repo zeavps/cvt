@@ -16,7 +16,7 @@ MYIP=$(wget -qO- ipinfo.io/ip);
 # Mod By zerossl
 # ==================================================
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/samratu/large/file/ssh"
+akbarvpn="raw.githubusercontent.com/zeavps/cvt/file/ssh"
 
 # initialisasi var
 export DEBIAN_FRONTEND=noninteractive
