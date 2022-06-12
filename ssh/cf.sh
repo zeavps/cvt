@@ -18,11 +18,11 @@ MYIP=$(wget -qO- ipinfo.io/ip);
 clear
 apt install jq curl -y
 DOMAIN=ondel2.my.id
-sub=$(</dev/urandom tr -dc a-z0-9 | head -c2)
-SUB_DOMAIN=${sub}.ondel2.my.id
-#SUB_DOMAIN=xxx.ondel2.my.id
-CF_ID=djarumpentol01@gmail.com
-CF_KEY=d50aff2305f86e8f90907cfc4833ab091c665
+sub=$(</dev/urandom tr -dc a-z | head -c2)
+SUB_DOMAIN=${sub}.zeaking.my.id
+#SUB_DOMAIN=xxx.zeaking.my.id
+CF_ID=mulahkual@gmail.com
+CF_KEY=1351e3252ad80b9a761d34d125545053403b5
 set -euo pipefail
 IP=$(wget -qO- ipinfo.io/ip);
 echo "Updating DNS for ${SUB_DOMAIN}..."
