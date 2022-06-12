@@ -19,25 +19,25 @@ CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
 # Link Hosting Kalian Untuk Ssh Vpn
-wisnuvpn="raw.githubusercontent.com/zeavps/main/cvt/ssh"
+wisnuvpn="raw.githubusercontent.com/zeavps/cvt/main/ssh"
 # Link Hosting Kalian Untuk Sstp
-wisnuvpnn="raw.githubusercontent.com/zeavps/main/cvt/sstp"
+wisnuvpnn="raw.githubusercontent.com/zeavps/cvt/main/sstp"
 # Link Hosting Kalian Untuk Ssr
-wisnuvpnnn="raw.githubusercontent.com/zeavps/main/cvt/ssr"
+wisnuvpnnn="raw.githubusercontent.com/zeavps/cvt/main/ssr"
 # Link Hosting Kalian Untuk Shadowsocks
-wisnuvpnnnn="raw.githubusercontent.com/zeavps/main/cvt/shadowsocks"
+wisnuvpnnnn="raw.githubusercontent.com/zeavps/cvt/main/shadowsocks"
 # Link Hosting Kalian Untuk Wireguard
-wisnuvpnnnnn="raw.githubusercontent.com/zeavps/main/cvt/wireguard"
+wisnuvpnnnnn="raw.githubusercontent.com/zeavps/cvt/main/wireguard"
 # Link Hosting Kalian Untuk Xray
-wisnuvpnnnnnn="raw.githubusercontent.com/zeavps/main/cvt/xray"
+wisnuvpnnnnnn="raw.githubusercontent.com/zeavps/cvt/main/xray"
 # Link Hosting Kalian Untuk Ipsec
-wisnuvpnnnnnnn="raw.githubusercontent.com/zeavps/main/cvt/ipsec"
+wisnuvpnnnnnnn="raw.githubusercontent.com/zeavps/cvt/main/ipsec"
 # Link Hosting Kalian Untuk Backup
-wisnuvpnnnnnnnn="raw.githubusercontent.com/zeavps/main/cvt/backup"
+wisnuvpnnnnnnnn="raw.githubusercontent.com/zeavps/cvt/main/backup"
 # Link Hosting Kalian Untuk Websocket
-wisnuvpnnnnnnnnn="raw.githubusercontent.com/zeavps/main/cvt/websocket"
+wisnuvpnnnnnnnnn="raw.githubusercontent.com/zeavps/cvt/main/websocket"
 # Link Hosting Kalian Untuk Ohp
-wisnuvpnnnnnnnnnn="raw.githubusercontent.com/zeavps/main/cvt/ohp"
+wisnuvpnnnnnnnnnn="raw.githubusercontent.com/zeavps/cvt/main/ohp"
 
 # Getting
 MYIP=$(wget -qO- ipinfo.io/ip);
