@@ -7,6 +7,21 @@ if [ "$(systemd-detect-virt)" == "openvz" ]; then
 		echo "OpenVZ is not supported"
 		exit 1
 fi
+red='\e[1;31m'
+green='\e[0;32m'
+NC='\e[0m'
+MYIP=$(wget -qO- ipv4.wildyproject.com);
+IZIN=$( curl https://raw.githubusercontent.com/zeavps/cvt/main/ipvps.txt | grep $MYIP )
+if [ $MYIP = $IZIN ]; then
+echo -e "${green}Permission Accepted...${NC}"
+else
+echo -e "${red}Permission Denied!${NC}";
+echo "Please Contact Admin"
+echo "Telegram : not found"
+echo "Whatsapp : not found"
+rm -f setup.sh
+exit 0
+fi
 # ==========================================
 # Color
 RED='\033[0;31m'
